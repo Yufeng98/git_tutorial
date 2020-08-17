@@ -10,8 +10,12 @@ def dog():
 def fish():
     print("Fish!")
 
+def tiger():
+    print("Tiger!")
+
 if __name__ == '__main__':
     hello()
     cat()
     dog()
     fish()
+    tiger()
