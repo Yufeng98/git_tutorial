@@ -13,9 +13,13 @@ def fish():
 def duck():
     print("Duck!")
 
+def tiger():
+    print("Tiger!")
+
 if __name__ == '__main__':
     hello()
     cat()
     dog()
     fish()
     duck()
+    tiger()
